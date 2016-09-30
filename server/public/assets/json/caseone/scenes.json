@@ -1868,7 +1868,9 @@
     "music": "stop",
     "blip": "typewriter.wav",
     "background": "courtroomHall.png",
-    "texttime": "90"},
+    "texttime": "90",
+    "character": "noChar",
+    "emotion": "default"},
     {"line": "Wow, you really saved us back there!",
     "character": "defense",
     "emotion": "witnessThreeneutral"},
@@ -1901,6 +1903,7 @@
     {"line": ". . .",
     "character": "witnessThree",
     "emotion": "aside",
+    "type": "default",
     "talking": "default"},
     {"line": "It's . . . complicated."},
     {"line": "I may not have brought the sickle down myself."},
@@ -1940,7 +1943,8 @@
     "character": "defense",
     "emotion": "witnessThreeneutral"},
     {"line": "(Of course . . .)",
-    "type": "thought"},
+    "type": "thought",
+    "name": "Perl"},
     {"line": "Well, I suppose I'll find out. Let's get going.",
     "type": "default"}]
 
