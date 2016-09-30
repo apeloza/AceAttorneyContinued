@@ -1,6 +1,6 @@
 #Perl Pascal: Ace Attorney
 ##Anthony Peloza
-###06-03-2016  | Version 1.0
+###09-30-2016  | Version 1.1
 URL: https://enigmatic-beach-25371.herokuapp.com/#/title (Note: This is a work in progress. Runs much faster locally by downloading the repo).
 
 #Application Overview
