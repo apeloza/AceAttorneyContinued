@@ -16,7 +16,7 @@ The user can click a save button to suspend their progress and return later wher
 
 
 
-#Gameplay
+#Gameplay 
 
 At any time, users may click the evidence button to open up an evidence pane with the current evidence they have. Users can check their evidence, or present it (if the user is currently in a testimony).
 
